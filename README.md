@@ -6,7 +6,7 @@
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/java.jpg"></img>
 <br><br><br><br><br>
 
-Software Engineering Training for computer science students.
+Fundamentals of Software Engineering Training for computer science students.
 
 <br><br>
 <img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
